@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**aditiwagh-1/aditiwagh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                                  ADITI WAGH
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building practical software solutions and exploring modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+- 🐍 Developing applications using Python
+- 🌐 Building backend systems with Flask
+- 🗄️ Working with databases and SQL
+- 🐧 Learning Linux, Git, and DevOps fundamentals
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Creating projects that solve real-world problems
+- 📚 Continuously improving my programming and problem-solving skills
+
+🎓 Computer Science Student
+
+📫 Reach me at: your-email@example.com
+
+🌱 Currently learning: Flask, REST APIs, Database Integration, and Deployment
+
