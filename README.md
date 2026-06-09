@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size =50px ">Hi 👋, I'm Aditi Wagh</h1>
 
-<h3 align="center">Python Developer | Backend Enthusiast | CS Student</h3>
+<h3 align="center">Enthusiastic as well as passionate student  | IT Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Flask+Enthusiast;Linux+Learner;AI+%26+Machine+Learning+Explorer;Open+to+Internship+Opportunities" alt="Typing SVG" />
