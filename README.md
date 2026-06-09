@@ -68,6 +68,9 @@ I'm a passionate Computer Science student focused on building practical software
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiwagh-1&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adiitechpro?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 🤝 Connect With Me
 <br><br>
