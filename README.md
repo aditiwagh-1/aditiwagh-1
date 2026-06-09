@@ -1,6 +1,14 @@
 ## 👨‍💻 About Me
 
-                                                                                  ADITI WAGH
+                                             
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+ ADITI WAGH
+  </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
 
 I'm a Computer Science student passionate about building practical software solutions and exploring modern technologies.
 
